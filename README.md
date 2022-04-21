@@ -1,7 +1,7 @@
 # smap_enkf_swat
 SMAP data assimilation for hydrologic SWAT model streamflow simulation using Ensemble Kalman Filter
  
-Running files for gvo catchment
+Running files are shared upon requested.
  
 EnKF package inherited from https://github.com/amolpatil771/SWAT_DA
  
